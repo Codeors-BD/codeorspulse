@@ -1,0 +1,15 @@
+/vendor
+/.phpunit.cache
+.phpunit.result.cache
+.phplint.cache
+.env
+.DS_Store
+
+# Internal planning and AI config (team-local, not for public repo)
+.planning/
+.claude/
+.agents/
+AGENTS.md
+CLAUDE.md
+FEATURE-SUMMARY.md
+VIBER-SUMMARY.txt
